@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdire welcome/, welcome/to/, welcome/to/school
+mkdire -p welcome/to/school
